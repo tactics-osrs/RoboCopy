@@ -15,7 +15,11 @@ When you run `RoboCopy.bat`, it will prompt you to enter the source directory an
 
 ## Error Handling
 
-The script includes basic error handling. If the source or destination directory does not exist, or if an error occurs during the `robocopy` operation, the script will print an error message and exit.
+The script includes basic error handling. If the source or destination directory does not exist, or if an error occurs during the `robocopy` operation, the script will print an error message and exit. 
+
+## Note
+
+You may need Administrative priveleges to move some files. To do this, run the .bat script as administrator.
 
 ## Requirements
 
